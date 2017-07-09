@@ -47,4 +47,3 @@ class PlayerSetDisplayEvent extends BaseEvent implements Cancellable{
 	}
 
 }
-?>

@@ -48,4 +48,3 @@ class WpitemCommand extends BaseCommand{
 	}
 
 }
-?>

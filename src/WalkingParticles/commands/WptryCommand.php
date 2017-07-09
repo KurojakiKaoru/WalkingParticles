@@ -102,4 +102,3 @@ class WptryCommand extends BaseCommand{
 	}
 
 }
-?>

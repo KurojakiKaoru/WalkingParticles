@@ -49,4 +49,3 @@ class WpoffCommand extends BaseCommand{
 	}
 
 }
-?>

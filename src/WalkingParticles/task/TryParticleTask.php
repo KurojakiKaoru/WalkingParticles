@@ -46,4 +46,3 @@ class TryParticleTask extends PluginTask{
 	}
 
 }
-?>

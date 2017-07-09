@@ -47,4 +47,3 @@ class PlayerClearWPEvent extends BaseEvent implements Cancellable{
 	}
 
 }
-?>

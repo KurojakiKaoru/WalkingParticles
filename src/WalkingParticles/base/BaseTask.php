@@ -44,4 +44,3 @@ abstract class BaseTask extends PluginTask{
 	}
 
 }
-?>

@@ -48,4 +48,3 @@ class PlayerSetAmplifierEvent extends BaseEvent implements Cancellable{
 	}
 
 }
-?>

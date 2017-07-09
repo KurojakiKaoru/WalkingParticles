@@ -56,4 +56,3 @@ class ParticleShowTask extends BaseTask{
 	}
 
 }
-?>

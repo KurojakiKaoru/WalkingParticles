@@ -47,4 +47,3 @@ class PlayerTryPlayerParticleEvent extends BaseEvent implements Cancellable{
 	}
 
 }
-?>

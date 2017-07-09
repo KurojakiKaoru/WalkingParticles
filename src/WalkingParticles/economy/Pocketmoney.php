@@ -61,4 +61,3 @@ class Pocketmoney extends BaseEconomy{
 	}
 
 }
-?>

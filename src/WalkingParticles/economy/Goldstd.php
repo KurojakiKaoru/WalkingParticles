@@ -59,4 +59,3 @@ class Goldstd extends BaseEconomy{
 	}
 
 }
-?>

@@ -645,4 +645,3 @@ class AdminCommand extends BaseCommand{
 	}
 
 }
-?>

@@ -45,4 +45,3 @@ class WpgetCommand extends BaseCommand{
 	}
 
 }
-?>

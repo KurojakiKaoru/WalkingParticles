@@ -73,4 +73,3 @@ class PlayerApplyPackEvent extends BaseEvent implements Cancellable{
 	}
 
 }
-?>

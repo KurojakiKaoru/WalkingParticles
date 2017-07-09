@@ -40,4 +40,3 @@ class PlayerEffectsEnableEvent extends BaseEvent implements Cancellable{
 	}
 
 }
-?>

@@ -47,4 +47,3 @@ class PlayerSetWPEvent extends BaseEvent implements Cancellable{
 	}
 
 }
-?>
