@@ -26,4 +26,7 @@ The WalkingParticles plugin is a fun plugin that ports most of the features from
 - More coming soon!
 
 <h5>Visit Our Official Website</h5>
-Click Here:[https://ztechnetwork.wixsite.com/tech]
+[Click Here:](https://ztechnetwork.wixsite.com/tech)
+
+<h6>Downloads</h6>
+Download the latest version [here](https://github.com/LeronDoesGM/WalkingParticles/releases).
