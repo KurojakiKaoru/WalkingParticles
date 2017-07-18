@@ -2,6 +2,11 @@
 
 <h3>An advanced and powerful particle trail plugin for your PocketMine-MP Server!</h3>
 
+<h4>Changelog(v1.1.0)</h4>
+- Full PocketMine API 3.0.0-ALPHA7 support
+- Cross API support(1.12.0 - 3.0.0-ALPHA7)
+- Plugin no longer crashes servers running PocketMine-MP build 296 and above.
+
 <h4>Features</h4>
 The WalkingParticles plugin is a fun plugin that ports most of the features from different kinds of particle trail plugins from Bukkit. In the coming versions, it will be more functional and it will contain more fun. In the latest version, the following features are included:
 
@@ -25,8 +30,8 @@ The WalkingParticles plugin is a fun plugin that ports most of the features from
 - Turn on/off on each players!
 - More coming soon!
 
-<h5>Visit Our Official Website</h5>
+<h4>Visit Our Official Website</h5>
 [Click Here](https://ztechnetwork.wixsite.com/tech)
 
-<h6>Downloads</h6>
+<h4>Downloads</h6>
 Download the latest version [here](https://github.com/LeronDoesGM/WalkingParticles/releases).
