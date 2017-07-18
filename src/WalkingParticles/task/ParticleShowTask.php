@@ -26,7 +26,7 @@ use WalkingParticles\base\BaseTask;
 
 class ParticleShowTask extends BaseTask{
 
-	public function onRun($tick){
+	public function onRun(int $currentTick){
 		$t = $this->getPlugin()->getData()->getAll();
 		foreach((array) $this->getPlugin()->getServer()->getOnlinePlayers() as $p){
 			if($p->hasPermission("walkingparticles") && isset($t[$p->getName()]) && $this->getPlugin()->isCleared($p) !== true && $t[$p->getName()]["enabled"] !== false){

@@ -24,7 +24,7 @@ use WalkingParticles\base\BaseTask;
 
 class RandomModeTask extends BaseTask{
 
-	public function onRun($tick){
+	public function onRun(int $currentTick){
 		foreach((array) $this->getPlugin()->random_mode as $rp){
 			$p = $this->getPlugin()->getServer()->getPlayer($rp);
 			if($p !== null){

@@ -37,7 +37,7 @@ class TryParticleTask extends PluginTask{
 		parent::__construct($plugin);
 	}
 
-	public function onRun($tick){
+	public function onRun(int $currentTick){
 		if($this->player !== null){
 			$this->plugin->byeTemp($this->player);
 			$this->player->sendMessage($this->plugin->colorMessage("&b[WalkingParticles] &aTry section has ended!\n&eRestored your original particles"));
