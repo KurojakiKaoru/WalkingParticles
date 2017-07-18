@@ -26,7 +26,7 @@ use pocketmine\Player;
 
 class WpitemCommand extends BaseCommand{
 
-	public function onCommand(CommandSender $issuer, Command $cmd, $label, array $args){
+	public function onCommand(CommandSender $issuer, Command $cmd, string $label, array $args) : bool{
 		switch($cmd->getName()):
 			case "wpitem":
 				if(! $issuer instanceof Player){

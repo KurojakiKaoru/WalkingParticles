@@ -30,7 +30,7 @@ use WalkingParticles\economy\Pocketmoney;
 
 class WptryCommand extends BaseCommand{
 
-	public function onCommand(CommandSender $issuer, Command $cmd, $label, array $args){
+	public function onCommand(CommandSender $issuer, Command $cmd, string $label, array $args) : bool{
 		switch($cmd->getName()){
 			case "wptry":
 				if($issuer->hasPermission("walkingparticles.command.wptry")){

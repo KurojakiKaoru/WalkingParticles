@@ -29,7 +29,7 @@ use WalkingParticles\UpdateChecker;
 
 class AdminCommand extends BaseCommand{
 
-	public function onCommand(CommandSender $issuer, Command $cmd, $label, array $args){
+	public function onCommand(CommandSender $issuer, Command $cmd, string $label, array $args) : bool{
 		switch($cmd->getName()):
 			case "walkp":
 				if($issuer->hasPermission("walkingparticles.command") || $issuer->hasPermission("walkingparticles.command.admin")){
